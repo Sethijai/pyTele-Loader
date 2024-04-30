@@ -8,7 +8,7 @@
     "python"
   ],
   "website": "https://t.me/FZXParadox",
-  "repository": "https://github.com/SilentDemonSD/pyTele-Loader",
+  "repository": "https://github.com/Sethijai/pyTele-Loader/tree/main",
   "success_url": "https://t.me/FZXParadox",
   "env": {
     "REPO_URL": {
